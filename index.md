@@ -4,7 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+
+[Link to another page](./https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp#:~:text=Artificial%20intelligence%20(AI)%20refers%20to,as%20learning%20and%20problem%2Dsolving.).
 
 There should be whitespace between paragraphs.
 
@@ -19,7 +20,9 @@ become more accurate at predicting outcomes without being explicitly programmed 
 
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more
 
-### Header 3
+### Artificial Intelligence
+
+Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions.
 
 ```js
 // Javascript code with syntax highlighting.
