@@ -4,8 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-
-[Link to another page](./https://sajankedia.github.io/portfolio/).
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AbhinabaSaha-git/Fraud-Detection)
 
 There should be whitespace between paragraphs.
 
