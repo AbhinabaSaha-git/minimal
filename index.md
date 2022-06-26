@@ -5,7 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
-[Link to another page](./https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp#:~:text=Artificial%20intelligence%20(AI)%20refers%20to,as%20learning%20and%20problem%2Dsolving.).
+[Link to another page](./https://sajankedia.github.io/portfolio/).
 
 There should be whitespace between paragraphs.
 
