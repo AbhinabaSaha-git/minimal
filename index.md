@@ -20,9 +20,11 @@ iSolve’s Ice Cream Shop franchise management platform has many more features i
 
 <center><img src="/assets/img/gst-billing-software-in-chennai.jpg"/></center>
 
-### Artificial Intelligence
+### Automation 
 
-Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions.
+Automation is a term for technology applications where human input is minimized. This includes business process automation (BPA), IT automation, personal applications such as home automation and more.
+
+<center><img src="/assets/img/How-to-Prepare-for-an-Automated-Future-657x400.jpg"/></center>
 
 ```js
 // Javascript code with syntax highlighting.
