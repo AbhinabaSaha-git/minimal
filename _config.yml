@@ -1,11 +1,10 @@
-title: Abhinaba Saha
+title: <p align="center"> Abhinaba Saha </p>
 logo: /assets/img/Abhinaba Passport - Copy.jpg
 
 description: 
   <p align="center">
   <a href="https://www.linkedin.com/in/abhinaba-saha-4b54749b/">LinkedIn</a> |
   <a href="https://github.com/AbhinabaSaha-git">GitHub</a>
- 
 
   <br>   
   I'm working on Chatbot development, using RASA core and RASA NLP, 
@@ -13,7 +12,6 @@ description:
   I am in the implementation team for cognizant automation center.
   <br>
   </p>
-
 
 
 theme: jekyll-theme-minimal
