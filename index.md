@@ -18,7 +18,7 @@ iSolve’s Ice Cream Shop franchise management platform has many more features i
 
 ## Ice cream parlour
 
-<center><img src="images/gst-billing-software-in-chennai.jpg"/></center>
+<center><img src="/assets/img/gst-billing-software-in-chennai.jpg"/></center>
 
 ### Artificial Intelligence
 
