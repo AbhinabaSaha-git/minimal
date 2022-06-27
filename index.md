@@ -9,7 +9,7 @@ Ice Cream Shop franchise management platform has many more features including PO
 
 ## Ice cream parlour
 
-<center><img src="/assets/img/gst-billing-software-in-chennai.jpg"/></center>
+<center><img src="/assets/img/Top-7-RPA-Use-Cases-In-Manufacturing-Industry-1.png"/></center>
 
 ### Automation 
 
