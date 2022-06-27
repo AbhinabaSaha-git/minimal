@@ -1,18 +1,11 @@
+# Automation Portfolio
 ---
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AbhinabaSaha-git/Fraud-Detection)
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Ice-cream parlour billing system using Python 
 
-iSolve’s Ice Cream Shop franchise management platform has many more features including POS, Order Management, Raw Material Management, Recipe Management, Logistics, Analytics and Integration with online food delivery partners like Zomato, Uber Eats, Swiggy, Food Panda.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AbhinabaSaha-git/Fraud-Detection)
+
+Ice Cream Shop franchise management platform has many more features including POS, Order Management, Raw Material Management, Recipe Management, Logistics, Analytics and Integration with online food delivery partners like Zomato, Uber Eats, Swiggy, Food Panda.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AbhinabaSaha-git/Icecream)
 
