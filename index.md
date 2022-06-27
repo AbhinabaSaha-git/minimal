@@ -10,14 +10,15 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Machine Learning
+# Ice-cream parlour billing system using Python 
 
-Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to 
-become more accurate at predicting outcomes without being explicitly programmed to do so.
+iSolve’s Ice Cream Shop franchise management platform has many more features including POS, Order Management, Raw Material Management, Recipe Management, Logistics, Analytics and Integration with online food delivery partners like Zomato, Uber Eats, Swiggy, Food Panda.
 
-## Fraud Detection
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AbhinabaSaha-git/Icecream)
 
-Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more
+## Ice cream parlour
+
+<center><img src="images/gst-billing-software-in-chennai.jpg"/></center>
 
 ### Artificial Intelligence
 
