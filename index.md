@@ -3,7 +3,7 @@
 
 # Ice-cream parlour billing system using Python 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AbhinabaSaha-git/Fraud-Detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AbhinabaSaha-git/Icecream)
 
 Ice Cream Shop franchise management platform has many more features including POS, Order Management, Raw Material Management, Recipe Management, Logistics, Analytics and Integration with online food delivery partners like Zomato, Uber Eats, Swiggy, Food Panda.
 
